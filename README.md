@@ -2,12 +2,12 @@
 
 <p align="left">
 
-  <h2><b>🛠 Currently Projects</b></h2>
+  <h2><b> Currently Projects</b></h2>
   - Safeguardian: A platform for homeless and tranit people to find resources. - Reactjs, Leaflet, Rails, PostgreSQL 
-  \n
+  <br>
   - Crypt-dough: Buy/Trade/Sell all things fermentation/baking/pickling - React native
   
- <h2><b>🛠 Currently Learning</b></h2>
+ <h2><b>📚 Currently Learning</b></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=py,ts)](https://skillicons.dev)
 
