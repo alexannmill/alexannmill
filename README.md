@@ -13,6 +13,6 @@
 
 <h2><b>🛠 Languages and Tools I use </b></h2>
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,jest,jquery,postgres,react,mysql,ruby,vscode,tailwind,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,jest,jquery,postgres,react,mysql,ruby,vscode,tailwind,express)](https://skillicons.dev) and more!
 
 </p>
