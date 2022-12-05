@@ -11,7 +11,7 @@
 <p align="left">
 
   <h2><b> Currently Projects</b></h2>
-  - Safeguardian: A platform for homeless and tranit people to find resources. - Reactjs, Leaflet, Rails, PostgreSQL 
+  - Safeguardian: A platform for unhoused people to find resources. - Reactjs, Leaflet, Rails, PostgreSQL 
   <br>
   - Crypt-dough: Buy/Trade/Sell all things fermentation/baking/pickling - React native
   
