@@ -9,9 +9,8 @@
 
 
 
-<div height="200" width="700">
+
 https://user-images.githubusercontent.com/106779840/207487411-f1ecf67b-2531-418b-b778-784892a306f3.mp4
-  </div>
 
 
 <a href="https://the-hungry-dev.netlify.app/" >Play The Hungry Dev! 🐍</a>
