@@ -8,14 +8,6 @@
 <a href="https://github.com/alexannmill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gunjan1909" height="30" width="40" /></a>
 
 
-
-
-
-https://user-images.githubusercontent.com/106779840/207506691-feda9280-26ca-4efc-a357-ed1a55b522b4.mp4
-
-
-<a href="https://the-hungry-dev.netlify.app/" >Play The Hungry Dev! 🐍</a>
-
 <p align="left">
 
   <h2><b> Currently Projects</b></h2>
@@ -32,3 +24,8 @@ https://user-images.githubusercontent.com/106779840/207506691-feda9280-26ca-4efc
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,jest,jquery,postgres,mysql,ruby,vscode,tailwind,express)](https://skillicons.dev) and more!
 
 </p>
+
+https://user-images.githubusercontent.com/106779840/207506691-feda9280-26ca-4efc-a357-ed1a55b522b4.mp4
+
+
+<a href="https://the-hungry-dev.netlify.app/" >Play The Hungry Dev! 🐍</a>
