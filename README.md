@@ -25,7 +25,5 @@
 
 </p>
 
-https://user-images.githubusercontent.com/106779840/207506691-feda9280-26ca-4efc-a357-ed1a55b522b4.mp4
-
 
 <a href="https://the-hungry-dev.netlify.app/" >Play The Hungry Dev! 🐍</a>
