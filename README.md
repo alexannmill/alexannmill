@@ -11,7 +11,7 @@
 <p align="left">
 
   <h2><b> Currently Projects</b></h2>
-  - Safeguardian: A platform for unhoused people to find resources. - Reactjs, Leaflet, Node, PostgreSQL 
+  - Safeguardian: A platform for unhoused people to find resources. - Reactjs, Leaflet, SASS, Serverless Backend
 
  <h2><b>📚 Currently Learning</b></h2>
 
