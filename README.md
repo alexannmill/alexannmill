@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Miller</h1>
-<h1>Work Account  <a href="https://github.com/alexezpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gunjan1909" height="30" width="40" /></a></h1>
+<h1><a href="https://github.com/alexezpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gunjan1909" height="30" width="40" /></a>  Work Account </h1>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
