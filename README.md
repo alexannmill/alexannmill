@@ -11,9 +11,8 @@
   </br>
   - Safeguardian: A platform for unhoused people to find resources. - Reactjs, Leaflet, SASS, Serverless Backend
 
- <h2><b>📚 Currently Learning: </b></h2> 
- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) 
+<h2><b>📚 Currently Learning: </b></h2> 
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) 
 <h2><b>🛠 Languages and Tools I use </b></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,docker,jest,jquery,postgres,mysql,ruby,vscode,tailwind,express)](https://skillicons.dev) and more!
