@@ -17,6 +17,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,docker,jest,jquery,postgres,mysql,ruby,vscode,tailwind,express)](https://skillicons.dev) and more!
 
-
+[![My Skills](https://skillicons.dev/icons?i=py,django&theme=light)](https://skillicons.dev)
 
 <a href="https://the-hungry-dev.netlify.app/" >Play The Hungry Dev! 🐍</a>
