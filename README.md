@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/alexannmill/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Miler" height="30" width="40" /></a>
 </h3>
 
-  <h2><b> Currently Projects</b></h2>
+  <h2><b> Current Projects</b></h2>
   - Safeguardian: A platform for unhoused people to find resources. - Reactjs, Leaflet, SASS, Serverless Backend
 
 <h2><b>📚 Currently Learning: </b></h2> 
