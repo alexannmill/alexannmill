@@ -7,8 +7,6 @@
 </h3>
 
   <h2><b> Currently Projects</b></h2>
-  - Gimme Sugar Treats: Landing page for a small bakery 🧁
-  </br>
   - Safeguardian: A platform for unhoused people to find resources. - Reactjs, Leaflet, SASS, Serverless Backend
 
 <h2><b>📚 Currently Learning: </b></h2> 
