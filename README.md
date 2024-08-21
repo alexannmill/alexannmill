@@ -10,7 +10,7 @@
 
 <h2><b>📚 Currently Learning: </b></h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=py,django&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust&theme=light)](https://skillicons.dev)
 
 
 <h2><b>🛠 Languages and Tools I use </b></h2>
