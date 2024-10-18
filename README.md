@@ -6,7 +6,7 @@
 </h3>
 
   <h2><b> Current Projects</b></h2>
-  - Safeguardian: A platform for unhoused people to find resources. - Reactjs, Leaflet, SASS, Serverless Backend
+  - Portfolio revamp 
 
 <h2><b>📚 Currently Learning: </b></h2> 
 
